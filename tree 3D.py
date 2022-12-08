@@ -10,12 +10,7 @@ global ambient
 global greencolor  
 global treecolor   
 global ballcolor
-global lightpos   
-
-#def float_range(start, stop, step):
-#  while start < stop:
-#    yield float(start)
-#    start += decimal.Decimal(step)
+global lightpos
 
 def init():
     global xrot    
